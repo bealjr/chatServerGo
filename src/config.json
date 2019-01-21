@@ -1,0 +1,8 @@
+{	"server":{
+		"host":"localhost",
+		"port": ":23",
+		"protocol": "tcp"
+	},
+	"chatBot": "TORBIT CHAT SYSTEM",
+	"logFileLocation": "./chatLog.json"
+}
